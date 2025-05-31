@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  * A simple CSV reader that extracts column titles and numerical data into lists.
- * It assumes the CSV uses ", " as the delimiter and that non-numeric entries can be skipped.
+ * It assumes the CSV uses ", " as the delimiter and that non-numeric entries can be skipped (the dataset is entirely numerical, no NaN(.
  *
  * @author Andi Guo
  */
