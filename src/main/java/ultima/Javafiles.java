@@ -26,7 +26,8 @@ import org.jfree.chart.renderer.category.BoxAndWhiskerRenderer;
  * @author Andi Guo
  */
 
-// the method to create and display a JFChart has been influenced by demo code from the JFChart github
+// the method to create and display a JFChart has been influenced, but not copied from demo code by ngadde
+// credit: https://github.com/ngadde/playground/blob/master/com.iis.sample1/src/main/java/demo/BoxAndWhiskerChartDemo1.java
 
 public class Javafiles extends ApplicationFrame {
 
